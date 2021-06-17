@@ -9,4 +9,4 @@ A tool used to register available usernames for World of Warcraft.
 ----
 
 ## Libraries Used
-* [keybd_event](github.com/micmonay/keybd_event)
+* [keybd_event](https://github.com/micmonay/keybd_event)
